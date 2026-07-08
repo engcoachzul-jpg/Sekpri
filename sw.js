@@ -1,6 +1,10 @@
 const CACHE_NAME = 'the-sekpri-v1';
 const ASSETS = [
   './',
+  './index.html',
+  './manifest.json',
+  'pwa-icon-192x192.png',
+  'pwa-icon-512x512.png',
   'https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@400;500;600;700&display=swap',
   'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css'
 ];

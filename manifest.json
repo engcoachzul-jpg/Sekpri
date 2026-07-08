@@ -1,8 +1,7 @@
 {
-  "name": "The Sekpri — Bilingual Reader",
+  "name": "The Sekpri",
   "short_name": "The Sekpri",
-  "description": "A bilingual reader for The Sekpri — a novella about governance and integrity.",
-  "start_url": ".",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#f5efe8",
   "theme_color": "#f5efe8",
@@ -11,13 +10,13 @@
       "src": "pwa-icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskanylang"
+      "purpose": "any maskable"
     },
     {
       "src": "pwa-icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskanylang"
+      "purpose": "any maskable"
     }
   ]
 }
